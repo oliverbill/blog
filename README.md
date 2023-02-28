@@ -2,8 +2,10 @@
 
 User stories:
 
-* The user wants to add new posts to the blog so that other people can acess it through www
+* As the Blog Administrator, I want to add new posts to the blog along with its timestamp and comments, so that other people can access and comment them through the web
 
-* The user wants to edit posts so that mistakes and new information can be added to them
+* As the Blog Administrator, I want to edit posts so that mistakes and new information can be added to them
 
-* The user wants to email recent published post so that another user can be alerted about it 
+* As the Blog Administrator, I want to remove posts with the possibility to restore them later so that they become invisible until I restore them 
+
+* As the Blog Administrator, I want to email a post right after its publishing so that another user can be alerted about it 
