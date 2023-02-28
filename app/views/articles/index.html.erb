@@ -1,9 +1,22 @@
 <h1>Articles</h1>
 
-<ul>
+<table >
     <% @articles.each do |article| %>
-    <li>
-      <%= article.title %>
-    </li>
+    <tr>
+      <th>  
+        TITLE
+      </th>
+      <th>
+        BODY
+      </th>
+    </tr>
+    <tr>
+      <td>  
+        <%= article.title %>
+      </td>
+      <td>
+        <%= article.body %>
+      </td>
+    </tr>
     <% end %>
 </ul>

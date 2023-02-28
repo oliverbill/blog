@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+User stories:
 
-Things you may want to cover:
+* The user wants to add new posts to the blog so that other people can acess it through www
 
-* Ruby version
+* The user wants to edit posts so that mistakes and new information can be added to them
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* The user wants to email recent published post so that another user can be alerted about it 
